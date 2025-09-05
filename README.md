@@ -27,5 +27,5 @@ Also when with the command *adk web* , it creates a **FastAPI** server for agent
 - **Language:** Python  
 - **Agents:** Google coding agents  
 - **Protocol:** MCP (GitHub server)  
-- **LLMs:** Orchestrates 3+ models for drafting, verification, and refactoring  
+- **LLMs:** Orchestrates AI agents  
 - **Storage:** Local cache (pluggable)
